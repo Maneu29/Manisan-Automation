@@ -1,0 +1,209 @@
+Connected to Dynamips VM "3725" (ID 2, type c3725) - Console port
+Press ENTER to get the prompt.
+rface FastEthernet0/0
+ ip address 192.168.1.1 255.255.255.0
+ duplex auto
+ speed auto
+!
+interface FastEthernet0/1
+ ip address 192.168.99.50 255.255.255.0
+ duplex auto
+ speed auto
+!
+interface FastEthernet1/0
+ no ip address
+ shutdown
+ duplex auto
+ speed auto
+!
+interface FastEthernet2/0
+ no ip address
+ shutdown
+ duplex auto
+ speed auto
+!
+ip forward-protocol nd
+!
+!
+ip http server
+no ip http secure-server
+!
+!
+!
+!
+!
+!
+!
+control-plane
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+line con 0
+line aux 0
+line vty 0 4
+ login local
+ transport input ssh
+!
+!
+end
+
+R1#admin
+Translating "admin"...domain server (255.255.255.255)
+ (255.255.255.255)
+Translating "admin"...domain server (255.255.255.255)
+
+% Unknown command or computer name, or unable to find computer address
+R1#
+R1#
+R1#
+R1#
+R1#admin
+Translating "admin"...domain server (255.255.255.255)
+ (255.255.255.255)
+Translating "admin"...domain server (255.255.255.255)
+
+% Unknown command or computer name, or unable to find computer address
+R1#
+R1#
+R1#
+R1#
+R1#admin
+Translating "admin"...domain server (255.255.255.255)
+ (255.255.255.255)
+Translating "admin"...domain server (255.255.255.255)
+
+% Unknown command or computer name, or unable to find computer address
+R1#
+R1#
+R1#
+R1#
+R1#admin
+Translating "admin"...domain server (255.255.255.255)
+ (255.255.255.255)
+Translating "admin"...domain server (255.255.255.255)
+
+% Unknown command or computer name, or unable to find computer address
+R1#
+R1#
+R1#
+R1#
+R1#admin
+Translating "admin"...domain server (255.255.255.255)
+ (255.255.255.255)
+Translating "admin"...domain server (255.255.255.255)
+
+% Unknown command or computer name, or unable to find computer address
+R1#
+R1#
+R1#
+R1#
+R1#admin
+Translating "admin"...domain server (255.255.255.255)
+ (255.255.255.255)
+Translating "admin"...domain server (255.255.255.255)
+
+% Unknown command or computer name, or unable to find computer address
+R1#
+R1#
+R1#
+R1#
+R1#admin
+Translating "admin"...domain server (255.255.255.255)
+ (255.255.255.255)
+Translating "admin"...domain server (255.255.255.255)
+
+% Unknown command or computer name, or unable to find computer address
+R1#
+R1#
+R1#
+R1#
+R1#admin
+Translating "admin"...domain server (255.255.255.255)
+ (255.255.255.255)
+Translating "admin"...domain server (255.255.255.255)
+
+% Unknown command or computer name, or unable to find computer address
+R1#
+R1#
+R1#
+R1#
+R1#admin
+Translating "admin"...domain server (255.255.255.255)
+ (255.255.255.255)
+Translating "admin"...domain server (255.255.255.255)
+
+% Unknown command or computer name, or unable to find computer address
+R1#
+R1#
+R1#
+R1#
+R1#admin
+Translating "admin"...domain server (255.255.255.255)
+ (255.255.255.255)
+Translating "admin"...domain server (255.255.255.255)
+
+% Unknown command or computer name, or unable to find computer address
+R1#
+R1#
+R1#
+R1#
+R1#admin
+Translating "admin"...domain server (255.255.255.255)
+ (255.255.255.255)
+Translating "admin"...domain server (255.255.255.255)
+
+% Unknown command or computer name, or unable to find computer address
+R1#
+R1#
+R1#
+R1#
+R1#admin
+Translating "admin"...domain server (255.255.255.255)
+ (255.255.255.255)
+Translating "admin"...domain server (255.255.255.255)
+
+% Unknown command or computer name, or unable to find computer address
+R1#
+R1#
+R1#
+R1#
+R1#admin
+Translating "admin"...domain server (255.255.255.255)
+ (255.255.255.255)
+Translating "admin"...domain server (255.255.255.255)
+
+% Unknown command or computer name, or unable to find computer address
+R1#
+R1#
+R1#
+R1#
+R1#admin
+Translating "admin"...domain server (255.255.255.255)
+ (255.255.255.255)
+Translating "admin"...domain server (255.255.255.255)
+
+% Unknown command or computer name, or unable to find computer address
+R1#
+R1#
+R1#
+R1#
+R1#admin
+Translating "admin"...domain server (255.255.255.255)
+ (255.255.255.255)
+Translating "admin"...domain server (255.255.255.255)
+
+% Unknown command or computer name, or unable to find computer address
+R1#
+R1#
+R1#
+R1#
+R1#admin
+Translating "admin"...domain server (255.255.255.255)
+ (255.255.255.255)
